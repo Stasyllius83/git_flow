@@ -1,5 +1,5 @@
 def str_upper(word):
-    """Функция с заглавными буквами"""
+    """"""
     return word.upper()
 
 
